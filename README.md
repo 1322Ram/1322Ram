@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1322Ram
 - 👀 I’m interested in AspNetCore
-- 🌱 I’m currently learning >net
+- 🌱 I’m currently learning >.Net
 - 💞️ I’m looking to collaborate on AspNetCore
 - 📫 How to reach me Do Not Try
 
